@@ -21,21 +21,21 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-common</artifactId>
-            <version>4.1.114.Final</version>
+            <version>4.1.118.Final</version>
         </dependency>
 
         <!-- Spring Security Core -->
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
-            <version>5.8.0</version>
+            <version>5.8.16</version>
         </dependency>
 
         <!-- Logback Core -->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-core</artifactId>
-            <version>1.4.0</version>
+            <version>1.5.13</version>
         </dependency>
     </dependencies>
 
